@@ -194,6 +194,3 @@ function filterTable($query)
   
 </body>
 </html>
-
-<?php do { ?> 
-  <?php } while($row = $student -> fetch_assoc()); ?>
