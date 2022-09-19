@@ -8,6 +8,9 @@ This repository is a compilation of drafts and completed mini-projects, activiti
 ![image](https://user-images.githubusercontent.com/104879438/190954620-1e67c4f7-45dc-4890-8202-8d82fb4ebe4a.png)
 
 ## php_OOP (Fundamentals & 4 Pillars)
+![image](https://user-images.githubusercontent.com/104879438/190955298-131ca37e-c7b1-42a4-bf05-33d8380ae58b.png)
+
+## php_OOP (Calculator)
 ![image](https://user-images.githubusercontent.com/104879438/190955119-8ef5a5a5-187c-410b-b154-2603faeef416.png)
 
 
