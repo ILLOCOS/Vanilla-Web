@@ -2,7 +2,7 @@
 
 # Getting Started with Vanilla Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is a compilation of drafts and completed mini-projects, activities, and anything that comes to mind.
 
 ## clinic (php & MySQL)
 
