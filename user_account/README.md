@@ -1,6 +1,6 @@
 # Getting Started with User_Account
 
-This mini-project requires the use of Node.js & MySQL.
+This output requires the use of Node.js & MySQL.
 
 ## Available Scripts
 
