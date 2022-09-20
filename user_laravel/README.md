@@ -28,8 +28,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ### `php artisan serve`
 
-Runs Laravel in your localhost:8000.
-Add '/employee' to localhost:8000 in your URL.
+- Runs Laravel in your localhost:8000.
+- Add '/employee' to localhost:8000 in your URL. (e.g. http://127.0.0.1:8000/employee)
 
 ## Learning Laravel
 
