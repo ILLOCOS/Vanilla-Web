@@ -1,5 +1,3 @@
-# Vanilla-Web
-
 # Getting Started with Vanilla Web
 
 This repository is a compilation of my personal drafts and completed mini-projects, activities, and anything that comes to mind.
