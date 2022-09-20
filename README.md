@@ -22,6 +22,10 @@ Feel free to view the preview of each output below.
 ![image](https://user-images.githubusercontent.com/104879438/190966481-f16d1baf-3d9d-4dbd-bf7b-ab02a4e932e4.png)
 ![image](https://user-images.githubusercontent.com/104879438/190965753-7da25c2a-168a-4099-b9aa-60b6fc91b95e.png)
 
+## user_laravel
+![image](https://user-images.githubusercontent.com/104879438/191311969-7fda4953-5fc3-43d9-90b8-cba04aeed591.png)
+
+
 
 
 
